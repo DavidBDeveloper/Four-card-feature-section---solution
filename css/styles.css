@@ -1,0 +1,78 @@
+/***************************TAGS*********************/
+body{
+  width: 1440px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #40514E;
+  font-size: 15px;
+}
+p{
+  font-weight: 200;
+  font-size: 0.60rem;
+  color: #a9a9a9;
+}
+
+/***************************CLASSES*********************/
+.b{
+  text-align: left;
+  padding: 25px 50px 20px 20px;
+  width: 12rem;
+  margin: auto;
+  box-shadow: 0 8px 15px #dcdcdc ;
+  border-radius: 5px;
+  background-color: hsl(0, 0%, 98%);
+}
+
+.box-1{
+  margin: 50px auto 10px auto;
+  border-top: solid 3px hsl(0, 78%, 62%);
+}
+.box-2{
+  margin: 50px auto 10px auto;
+  border-top: solid 3px hsl(212, 86%, 64%);
+  position: absolute;
+  left: 885px;
+  top: 280px;
+}
+.box-3{
+  margin: 50px auto 10px auto;
+  border-top: solid 3px hsl(180, 62%, 55%);
+  position: absolute;
+  left: 309px;
+  top: 280px;
+}
+.box-4{
+  margin: 25px auto 10px auto;
+  border-top: solid 3px hsl(34, 97%, 64%);
+}
+.img{
+  position: relative;
+  width: 50px;
+  left: 167px;
+  top: 15px;
+  padding-bottom: 10px;
+  }
+.top-box{
+  width: 27%;
+  margin: auto;
+}
+.tb-h2-1{
+  font-size: 1.5rem;
+  font-weight: 100;
+  margin: 65px auto 0 auto;
+}
+.tb-h2-2{
+  font-weight: 600;
+  font-size: 1.57rem;
+  margin: 0 auto 10px auto;
+}
+.tb-h3-1{
+  font-weight: 200;
+  font-size: 0.70rem;
+  color: #a9a9a9;
+}
+.sub-titles{
+  font-weight: 600;
+  margin: 0 auto;
+  font-size: 0.9rem;
+}
